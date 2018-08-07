@@ -7,7 +7,7 @@ public class testClass {
         String lastName;
 
         firstName = "Bob";
-        lastName = "Jones";
+        lastName = "Bones";
 
         System.out.println(firstName);
         System.out.print(lastName);
